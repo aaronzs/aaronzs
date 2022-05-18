@@ -16,4 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```text
+Python       11 hrs 23 mins  ████████████████░░░░░░░░░   64.30 %
+YAML         2 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+TOML         1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Rust         1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Text         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+```
+
 <!--END_SECTION:waka-->
