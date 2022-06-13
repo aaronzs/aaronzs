@@ -38,6 +38,7 @@ jobs:
           plugin_languages_recent_load: 500
           plugin_languages_sections: recently-used
           plugin_languages_threshold: 0%
+          plugin_languages_aliases: RenderScript:Rust
           plugin_lines: yes
           plugin_wakatime: yes
           plugin_wakatime_days: 7
